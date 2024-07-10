@@ -41,14 +41,6 @@ def main():
         st.subheader("Iris Dataset")
         st.write(iris_df)
         
-        st.subheader("Dataset Description")
-        st.write(iris.DESCR)
-        
-        st.subheader("Data Visualization")
-        fig, ax = plt.subplots()
-        sns.pairplot(iris_df, hue="species", height=2)
-        st.pyplot(fig)
-        
     elif choice == "Prediction":
         st.subheader("Prediction")
         
