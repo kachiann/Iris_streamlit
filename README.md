@@ -5,7 +5,14 @@ This is a simple Streamlit app for predicting Iris flower species based on sepal
 ## Installation
 
 1. Clone this repository
-2. Install the required packages:
+```bash
+git clone https://github.com/kachiann/Iris_streamlit.git
+```
+2. Go to folder
+```bash
+cd Iris_streamlit
+```
+3. Install the required packages:
 ``` bash
 pip install -r requirements.txt
 ```
