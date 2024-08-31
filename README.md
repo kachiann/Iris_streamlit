@@ -1,6 +1,6 @@
 # Iris Flower Prediction Streamlit App
 
-This is a simple Streamlit app for predicting Iris flower species based on sepal and petal measurements.
+This is an interactive Streamlit application designed to predict the species of an Iris flower based on user-provided measurements of its sepal and petal dimensions. The app utilizes a machine learning model trained on the classic Iris dataset to perform accurate species classification.
 
 ## Installation
 
